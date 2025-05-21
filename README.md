@@ -8,9 +8,9 @@ Brajham Steeven Vanegas Tarazona
 stevenvanegas148@gmail.com
 
 #Formación académica
--Bachhiller académico
--Estudiante de Ingeniería de Sistemas en UNIMINUTO
+- Bachhiller académico.
+- Estudiante de Ingeniería de Sistemas en UNIMINUTO.
 
 #Habilidades
--Conocimientos básicos en programación
-- Uso de herramientas colaborativas como GitHub
+- Conocimientos básicos en programación.
+- Uso de herramientas colaborativas como GitHub.
