@@ -8,7 +8,6 @@ mark down
 
 - **Correo**: stevenvanegas148@gmail.com
 - **Teléfono**: 3124003797
-- **Dirección**: Cra 73 #57 R 15sur
 
 
 #Formación académica
