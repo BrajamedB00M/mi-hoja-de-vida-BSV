@@ -4,7 +4,8 @@ Repositorio para la creación del README para la hoja de vida :)
 mark down
 #Mi hoja de vida
 
-**Nombre completo**: Brajahm Steeven Vanegas Tarazona
+**Nombre completo**: Brajham Steeven Vanegas Tarazona
+
 - **Correo**: stevenvanegas148@gmail.com
 - **Teléfono**: 3124003797
 - **Dirección**: Cra 73 #57 R 15sur
