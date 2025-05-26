@@ -28,3 +28,10 @@ mark down
 
 **Nombre**: *Nayibe Vanegas Tarazona*
 **Teléfono**: *3213248379*
+
+#Interéses y pasatiempos
+- Lectura
+- Video juegos
+- Fútbol
+- Voleibol
+- Juegos de mesa y destreza
