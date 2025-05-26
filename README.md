@@ -34,4 +34,4 @@ mark down
 - Video juegos
 - Fútbol
 - Voleibol
-- Juegos de mesa y destreza
+- Juegos de mesa
