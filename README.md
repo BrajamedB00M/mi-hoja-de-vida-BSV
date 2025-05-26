@@ -5,9 +5,9 @@ mark down
 #Mi hoja de vida
 
 **Nombre completo**: Brajham Steeven Vanegas Tarazona
-**Correo**: stevenvanegas148@gmail.com
-**Teléfono**: 3124003797
-**Dirección**: Cra 73 #57 R 15sur
+- **Correo**: stevenvanegas148@gmail.com
+- **Teléfono**: 3124003797
+- **Dirección**: Cra 73 #57 R 15sur
 
 
 #Formación académica
