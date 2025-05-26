@@ -23,11 +23,11 @@ mark down
 - Uso de herramientas creativas como Python.
 
 #Referencias personales:
-**Nombre**: *Maria Helena Tarazona*
-**Teléfono**: *3016094523*
+- **Nombre**: *Maria Helena Tarazona*
+- **Teléfono**: *3016094523*
 
-**Nombre**: *Nayibe Vanegas Tarazona*
-**Teléfono**: *3213248379*
+- **Nombre**: *Nayibe Vanegas Tarazona*
+- **Teléfono**: *3213248379*
 
 #Interéses y pasatiempos
 - Lectura
